@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="./assets/terminal-portrait.svg" width="480" alt="Prathik Salla - Animated Terminal Portrait" />
+
+  <br><br>
+
   <img src="./assets/profile-header.svg" alt="Prathik Salla - Computer Science Student | Software & AI Systems" width="100%" />
 
   <br><br>
