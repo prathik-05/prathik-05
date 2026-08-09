@@ -1,38 +1,39 @@
-<svg width="850" height="185" viewBox="0 0 850 185" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="850" height="175" viewBox="0 0 850 175" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <a xlink:href="https://github.com/prathik-05/CognitoEDA" target="_blank">
-    <rect width="850" height="185" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <rect width="850" height="175" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
     
-    <text x="24" y="34" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">DATA SCIENCE & AUTOMATED ANALYTICS</text>
+    <text x="24" y="32" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">DATA SCIENCE & AUTOMATED ANALYTICS</text>
     
-    <text x="24" y="60" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">CognitoEDA Analytics Engine</text>
+    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">CognitoEDA Analytics Engine</text>
     
-    <text x="24" y="88" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Automates core EDA workflows including dataset cleaning, feature correlation,</text>
-    <text x="24" y="108" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">distribution analysis, and interactive visual report generation.</text>
+    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Automates core EDA workflows including dataset cleaning, feature correlation,</text>
+    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">distribution analysis, and interactive visual report generation.</text>
     
     
-        <g transform="translate(24, 145)">
+        <g transform="translate(24, 140)">
             <rect width="58" height="22" rx="4" fill="#1E293B" />
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Python</text>
         </g>
-        <g transform="translate(90, 145)">
+        <g transform="translate(90, 140)">
             <rect width="79" height="22" rx="4" fill="#1E293B" />
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Streamlit</text>
         </g>
-        <g transform="translate(177, 145)">
+        <g transform="translate(177, 140)">
             <rect width="58" height="22" rx="4" fill="#1E293B" />
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Pandas</text>
         </g>
-        <g transform="translate(243, 145)">
+        <g transform="translate(243, 140)">
             <rect width="100" height="22" rx="4" fill="#1E293B" />
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Scikit-Learn</text>
         </g>
-        <g transform="translate(351, 145)">
+        <g transform="translate(351, 140)">
             <rect width="114" height="22" rx="4" fill="#1E293B" />
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Data Analytics</text>
         </g>
     
-    <g transform="translate(805, 25)">
-      <path d="M0 6H12M12 6L7 1M12 6L7 11" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(805, 24)">
+      <circle cx="10" cy="10" r="14" fill="#161B22"/>
+      <path d="M5 10H15M15 10L10 5M15 10L10 15" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
   </a>
 </svg>

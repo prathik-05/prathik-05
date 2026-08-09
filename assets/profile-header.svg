@@ -1,14 +1,22 @@
-<svg width="850" height="140" viewBox="0 0 850 140" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="850" height="140" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+<svg width="850" height="130" viewBox="0 0 850 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="130" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+  <rect width="850" height="2" rx="1" fill="url(#blue_gradient)"/>
+
+  <defs>
+    <linearGradient id="blue_gradient" x1="0" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <text x="32" y="46" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5">Prathik Salla</text>
+  <text x="32" y="74" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">Computer Science Student | Software &amp; AI Systems</text>
+  <text x="32" y="102" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Building RAG applications, computer vision pipelines &amp; core software systems • ACE Engineering College</text>
   
-  <text x="36" y="48" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5">Prathik Salla</text>
-  <text x="36" y="76" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="500">Computer Science Student | Software &amp; AI Systems</text>
-  
-  <text x="36" y="108" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">Building intelligent RAG applications, real-time computer vision engines &amp; data systems</text>
-  
-  <g transform="translate(690, 36)">
-    <rect width="124" height="28" rx="14" fill="#0F172A" stroke="#334155" stroke-width="1"/>
-    <circle cx="16" cy="14" r="4" fill="#22C55E"/>
-    <text x="28" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Open to Roles</text>
+  <g transform="translate(700, 34)">
+    <rect width="118" height="26" rx="13" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+    <circle cx="14" cy="13" r="4" fill="#22C55E"/>
+    <text x="26" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500">Open to Roles</text>
   </g>
 </svg>
