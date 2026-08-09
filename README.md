@@ -50,22 +50,10 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 ---
 
-## 📜 Verified Certifications & Credentials
+## 📜 Verified Certifications
 
 - 🎓 **[Oracle Cloud Infrastructure (OCI) Generative AI Certified Professional](https://education.oracle.com/)**
-  - Verified proficiency in LLMs, RAG architecture, fine-tuning, and cloud AI deployment.
-- 🌐 **Cisco Networking Academy — CCNA Series**
-  - *Enterprise Networking, Security, & Automation*
-  - *Switching, Routing, & Wireless Essentials*
-  - *Introduction to Networks*
-- 🐍 **Cisco & Python Institute**
-  - *Python Essentials 1 & 2*
-- 🤖 **AI, Data Science & Cloud Badges**
-  - *Cisco: Introduction to Modern AI & Data Science*
-  - *IBM SkillsBuild: Generative AI in Cybersecurity & Quantum Computing*
-  - *Hands-On AI Upskilling: Model to App Development*
-- 🏆 **AICTE Virtual Internship**
-  - *Virtual Internship Certification in AI/ML & Software Development*
+  - Verified proficiency in Large Language Models (LLMs), RAG architecture, fine-tuning, and cloud AI deployment.
 
 ---
 
@@ -73,8 +61,7 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 - **Languages**: `Python` • `Java` • `TypeScript` • `JavaScript` • `SQL`
 - **AI / ML & Vision**: `RAG` • `MCP` • `YOLOv11` • `OpenCV` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Streamlit`
-- **Networking & Systems**: `CCNA (Networking, Security & Automation)` • `Linux` • `Git` • `REST APIs`
-- **Databases**: `MySQL` • `PostgreSQL` • `Vector Databases`
+- **Core CS & Databases**: `Data Structures & Algorithms` • `DBMS (MySQL, PostgreSQL)` • `REST APIs` • `Git` • `Linux`
 
 ---
 
