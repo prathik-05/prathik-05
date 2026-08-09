@@ -4,10 +4,10 @@
     
     <text x="24" y="32" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">AI SYSTEMS & MULTIMODAL RAG</text>
     
-    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">MCP-Powered Video RAG Platform</text>
+    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">MCP-Powered RAG Video Intelligence Platform</text>
     
-    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Semantic video search & conversational QA across long-form video content.</text>
-    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Interoperable tool execution & clip generation via Model Context Protocol (MCP).</text>
+    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Multimodal RAG architecture integrating MCP tools, semantic search, conversational memory,</text>
+    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">intelligent clip generation, AI notes generation, and timestamp-aware processing.</text>
     
     
         <g transform="translate(24, 140)">

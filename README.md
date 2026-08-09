@@ -24,56 +24,65 @@
 
 <br>
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hyderabad. Building practical AI applications, RAG pipelines, computer vision inference tools, and software backend solutions.
+Computer Science (Data Science) undergraduate with strong foundations in **Python**, **Java**, **Data Structures & Algorithms**, **OOPs**, **REST APIs**, and backend development. Experienced in building AI-powered applications using **Streamlit**, **RAG**, **Computer Vision**, **TensorFlow**, **PyTorch**, and **SQL**. Hands-on experience with AI-assisted development tools, cloud platforms, and Git workflows. Passionate about developing scalable software systems, intelligent automation solutions, and modern AI-driven applications.
 
-- 🛠️ **Engineering Focus**: Full-Stack Development, AI Workflow Automation, RAG Architecture & Computer Vision.
-- 🎯 **Problem Solving**: Active in Data Structures & Algorithms, Object-Oriented Design, and System Architecture.
-- 🌐 **Open Source**: Actively building and contributing to open-source software tooling and AI platforms.
+---
+
+## 🎓 Education
+
+- 🏫 **ACE Engineering College** • *B.Tech in Computer Science (Data Science)* • **CGPA: 8.50** *(Aug 2023 – May 2027)*
+- 🏫 **Alphores Jr. College** • *MPC Stream* • **GPA: 8.80** *(June 2021 – May 2023)*
 
 ---
 
 ## 📌 Featured Work
 
 <a href="https://github.com/prathik-05/MCP-Powered-Video-RAG">
-  <img src="./assets/project-video-rag.svg" alt="MCP-Powered Video RAG Platform" width="100%" />
+  <img src="./assets/project-video-rag.svg" alt="MCP-Powered RAG Video Intelligence Platform" width="100%" />
 </a>
 
 <br>
 
 <a href="https://github.com/prathik-05/CognitoEDA">
-  <img src="./assets/project-cognito-eda.svg" alt="CognitoEDA Analytics Engine" width="100%" />
+  <img src="./assets/project-cognito-eda.svg" alt="CognitoEDA - Automated EDA Platform" width="100%" />
 </a>
 
 <br>
 
 <a href="https://github.com/prathik-05/yolov11-object-detection-and-segmentation">
-  <img src="./assets/project-yolo-vision.svg" alt="YOLOv11 Vision Inference Pipeline" width="100%" />
+  <img src="./assets/project-yolo-vision.svg" alt="Real-Time Object Detection & Segmentation (YOLOv11)" width="100%" />
 </a>
 
 ---
 
-## 📜 Verified Certifications
+## 📜 Certifications & Achievements
 
-- 🎓 **[Oracle Cloud Infrastructure (OCI) Generative AI Certified Professional](https://education.oracle.com/)**
-  - Verified proficiency in Large Language Models (LLMs), RAG architecture, fine-tuning, and cloud AI deployment.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: `Python` • `Java` • `TypeScript` • `JavaScript` • `SQL`
-- **AI / ML & Vision**: `RAG` • `MCP` • `YOLOv11` • `OpenCV` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Streamlit`
-- **Core CS & Databases**: `Data Structures & Algorithms` • `DBMS (MySQL, PostgreSQL)` • `REST APIs` • `Git` • `Linux`
+- 🎓 **[Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional](https://education.oracle.com/)** — *Oracle*
+- ⚡ **AI Upskilling: Hands-On Development from Model to App** — *Qualcomm*
+- 🌐 **ServiceNow Virtual Internship Program** — *AICTE, SmartBridge & ServiceNow University*
+- ☁️ **Google Cloud Generative AI Virtual Internship** — *SmartBridge & SmartInternz*
+- 🤖 **Artificial Intelligence & Data Analytics Virtual Internship** — *AICTE, Shell & Edunet Foundation*
+- 📡 **CCNA: Networking, Security & Automation** — *Cisco Networking Academy*
+- 📱 **Android Development & AI/ML Program** — *Google for Developers (EduSkills)*
 
 ---
 
-## 🔍 Currently Exploring
+## 🛠️ Technical Skills
 
-- 🤖 **Retrieval-Augmented Generation (RAG)** & **Model Context Protocol (MCP)** agent tooling.
-- ⚡ **Scalable System Architecture** & High-Throughput Backend Microservices.
-- 🌐 **Open Source Development** & AI developer workflows.
+- **Languages**: `Java` • `Python` • `SQL` • `R` • `HTML/CSS` • `JavaScript`
+- **Core Computer Science**: `Data Structures & Algorithms` • `OOPs` • `DBMS` • `Problem Solving`
+- **AI & Machine Learning**: `Machine Learning` • `Retrieval-Augmented Generation (RAG)` • `Computer Vision` • `AI Workflow Automation`
+- **Frameworks & Libraries**: `Streamlit` • `TensorFlow` • `PyTorch` • `OpenCV` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
+- **Cloud & Tools**: `Git` • `GitHub` • `Oracle Cloud Infrastructure (OCI)` • `Google Cloud` • `MCP` • `Linux` • `REST APIs`
+
+---
+
+## 💡 Strengths & Interests
+
+- 🧠 **Strengths**: Problem Solving, Good Communication, Rapid Learning & Adaptability, Teamwork
+- 🎯 **Interests**: Exploring AI Technologies, System Architecture, Internet Trends, Photography
 
 ---
 

@@ -1,5 +1,5 @@
-<svg width="850" height="130" viewBox="0 0 850 130" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="850" height="130" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+<svg width="850" height="140" viewBox="0 0 850 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="140" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
   <rect width="850" height="2" rx="1" fill="url(#blue_gradient)"/>
 
   <defs>
@@ -11,8 +11,8 @@
   </defs>
 
   <text x="32" y="46" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5">Prathik Salla</text>
-  <text x="32" y="74" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">Computer Science Student | Software &amp; AI Systems</text>
-  <text x="32" y="102" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Building RAG applications, computer vision pipelines &amp; core software systems • ACE Engineering College</text>
+  <text x="32" y="74" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">B.Tech CS (Data Science) | Software &amp; AI Systems</text>
+  <text x="32" y="102" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">ACE Engineering College (CGPA: 8.50) • Building RAG platforms, Computer Vision &amp; Scalable Systems</text>
   
   <g transform="translate(700, 34)">
     <rect width="118" height="26" rx="13" fill="#0F172A" stroke="#334155" stroke-width="1"/>

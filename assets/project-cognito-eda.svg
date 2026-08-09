@@ -4,10 +4,10 @@
     
     <text x="24" y="32" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">DATA SCIENCE & AUTOMATED ANALYTICS</text>
     
-    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">CognitoEDA Analytics Engine</text>
+    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">CognitoEDA - Automated EDA Platform</text>
     
-    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Automates core EDA workflows including dataset cleaning, feature correlation,</text>
-    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">distribution analysis, and interactive visual report generation.</text>
+    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">AI-powered exploratory data analysis platform featuring dataset health scoring,</text>
+    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">correlation analysis, automated visualizations, and dynamic dashboard generation.</text>
     
     
         <g transform="translate(24, 140)">
