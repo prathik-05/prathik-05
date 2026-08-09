@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/terminal-portrait.svg" width="460" alt="Prathik Salla - Animated Terminal Portrait" />
+  <img src="./assets/ai-systems-flow.svg" alt="Prathik Salla - AI Systems & RAG Architecture Flow" width="100%" />
 
   <br><br>
 
