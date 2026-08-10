@@ -34,13 +34,13 @@
 
 <br>
 
-## 🚀 About Me
+## 🚀 About Me — All-Rounder (SDE + AI Systems Engineer)
 
-Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hyderabad. Building practical AI applications, RAG pipelines, computer vision inference tools, and software backend solutions.
+Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hyderabad. Building a strong, balanced engineering profile across **Software Development Engineering (SDE)** and **AI Systems Engineering**.
 
-- 🛠️ **Engineering Focus**: Full-Stack Development, AI Workflow Automation, RAG Architecture & Computer Vision.
-- 🎯 **Problem Solving**: Active in Data Structures & Algorithms, Object-Oriented Design, and System Architecture.
-- 🌐 **Open Source**: Actively building and contributing to open-source software tooling and AI platforms.
+- 💻 **Software Engineering (SDE)**: Solid foundation in Data Structures & Algorithms, Object-Oriented Programming (Java/Python), DBMS (MySQL/PostgreSQL), System Design, and RESTful API architecture.
+- 🤖 **AI Systems Engineering**: Practical expertise in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Computer Vision (YOLOv11/OpenCV), and AI workflow automation.
+- 🌐 **Open Source & Problem Solving**: Active problem solver and open-source contributor focused on building production-ready, scalable applications.
 
 ---
 
@@ -64,6 +64,16 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 ---
 
+## 🛠️ All-Rounder Technical Stack
+
+- **Languages**: `Java` • `Python` • `SQL` • `R` • `JavaScript` • `HTML/CSS`
+- **Software Engineering (SDE)**: `Data Structures & Algorithms` • `OOPs` • `DBMS (MySQL, PostgreSQL)` • `System Design` • `REST APIs`
+- **AI & Machine Learning**: `Retrieval-Augmented Generation (RAG)` • `Model Context Protocol (MCP)` • `Computer Vision (OpenCV, YOLOv11)` • `Machine Learning` • `AI Workflow Automation`
+- **Frameworks & Libraries**: `Streamlit` • `PyTorch` • `TensorFlow` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
+- **Cloud, DevOps & Tools**: `Oracle Cloud Infrastructure (OCI)` • `Google Cloud` • `Git & GitHub` • `Linux`
+
+---
+
 ## 📜 Verified Certifications & Achievements
 
 - 🎓 **[Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional](https://education.oracle.com/)** — *Oracle*
@@ -73,16 +83,6 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 - 🤖 **Artificial Intelligence & Data Analytics Virtual Internship** — *AICTE, Shell & Edunet Foundation*
 - 📡 **CCNA: Networking, Security & Automation** — *Cisco Networking Academy*
 - 📱 **Android Development & AI/ML Program** — *Google for Developers (EduSkills)*
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages**: `Java` • `Python` • `SQL` • `R` • `HTML/CSS` • `JavaScript`
-- **Core CS**: `Data Structures & Algorithms` • `OOPs` • `DBMS` • `Problem Solving`
-- **AI & ML**: `Machine Learning` • `RAG` • `Computer Vision` • `AI Workflow Automation`
-- **Frameworks & Libraries**: `Streamlit` • `TensorFlow` • `PyTorch` • `OpenCV` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
-- **Cloud & Tools**: `Git` • `GitHub` • `OCI` • `Google Cloud` • `MCP` • `Linux` • `REST APIs`
 
 ---
 
