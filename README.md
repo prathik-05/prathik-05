@@ -44,6 +44,18 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 ---
 
+## 💻 Quick Start & Tooling Execution
+
+```bash
+# Clone and explore featured AI repositories
+git clone https://github.com/prathik-05/MCP-Powered-Video-RAG.git
+cd MCP-Powered-Video-RAG
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
 ## 📌 Featured Work
 
 <a href="https://github.com/prathik-05/MCP-Powered-Video-RAG">
