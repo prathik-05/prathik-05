@@ -12,179 +12,179 @@
     
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="0.00s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="20" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">csssssssssssssssssssssssssss################ssssssssssssssssssssssssssss</text>
+          <text x="12" y="20" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">csssssssssssssssssssssssssss################ssssssssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.09s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="32" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssssssssssssssss##############sssssssssssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.08s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="32" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssssssssssssssss##############sssssssssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.18s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="44" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">csssssssssssssssssssssssss###sccc**ccs###s###sssssssssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.16s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="44" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">csssssssssssssssssssssssss###sccc**ccs###s###sssssssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.27s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="56" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ccccssssssssssssssssss#s#sccc+`.`::::::----+css##sssssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.24s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="56" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ccccssssssssssssssssss#s#sccc+`.`::::::----+css##sssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="68" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ccccssssssssssssssssss*=-::---``:--:```::::``-=**c#sssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.32s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="68" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ccccssssssssssssssssss*=-::---``:--:```::::``-=**c#sssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.45s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="80" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">cssssssssssssssssssss*::`:::`:-:``:-:-:`---::`-:`:+cssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.40s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="80" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">cssssssssssssssssssss*::`:::`:-:``:-:-:`---::`-:`:+cssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="92" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">cssssssssssssssss#c-:::`::`:::::`..-=+=`.::`--.``:`:+cssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="0.48s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="92" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">cssssssssssssssss#c-:::`::`:::::`..-=+=`.::`--.``:`:+cssssssssssssssssss</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="0.56s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="104" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">csssssssssssssssss-:``:-``::-=--=:  :-::. ...`:`..`.`=*ssssssssssssssssc</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="0.64s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="104" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">csssssssssssssssss-:``:-``::-=--=:&#160;&#160;:-::.&#160;...`:`..`.`=*ssssssssssssssssc</text>
+          <text x="12" y="116" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">cssssssssssssssss-::``::::-:`---==:    .`.     .. ...`-csssssssssssssssc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.73s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="116" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">cssssssssssssssss-::``::::-:`---==:&#160;&#160;&#160;&#160;.`.&#160;&#160;&#160;&#160;&#160;..&#160;...`-csssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="0.72s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="128" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">cssssssssssssss#+::..````:````.`::`..    .          ..+csssssssssssssssc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.82s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="128" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">cssssssssssssss#+::..````:````.`::`..&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;..+csssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="0.80s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="140" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssss*::```.```:`.`:.. ..`:------:`.       `=csssssssssssssssc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.91s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="140" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssss*::```.```:`.`:..&#160;..`:------:`.&#160;&#160;&#160;&#160;&#160;&#160;&#160;`=csssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="0.88s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="152" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssss#=```::`::`````::--==+****cc**+=-`...`.`:csssssssssssssscc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="152" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssss#=```::`::`````::--==+****cc**+=-`...`.`:csssssssssssssscc</text>
+          <animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="164" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssss=````.  .``::-===++**ccccccccc*+-``````-csssssssssssssscc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.09s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="164" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssss=````.&#160;&#160;.``::-===++**ccccccccc*+-``````-csssssssssssssscc</text>
+          <animate attributeName="opacity" values="0;1" begin="1.03s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="176" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssss#c`...``.`====++***csssssssccccc*=:::```*#sssssssssssssscc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.18s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="176" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssss#c`...``.`====++***csssssssccccc*=:::```*#sssssssssssssscc</text>
+          <animate attributeName="opacity" values="0;1" begin="1.11s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="188" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssss#*``````=**ccs#%%%%%%%%%##sc***cc: `:.-#ssssssssssssssscc</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.19s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="200" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssss#s-``.-+++==--=+*csc*+-`..`::--++ .`.c#ssssssssssssssssc</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="1.27s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="188" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssss#*``````=**ccs#%%%%%%%%%##sc***cc:&#160;`:.-#ssssssssssssssscc</text>
+          <text x="12" y="212" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssss#s``.+=-=-::`.``-**=``..`:-=====::.-##sssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.36s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="200" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssss#s-``.-+++==--=+*csc*+-`..`::--++&#160;.`.c#ssssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="1.35s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="224" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssss#+.::=++==:````:--:::.``:-:-+*:::==*#ssssssssssssssssc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="212" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssss#s``.+=-=-::`.``-**=``..`:-=====::.-##sssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="1.43s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="236" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssss#s=---++-:::`::-.+c--=--:-===+*-.-c=*#ssssssssssssssssc</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.55s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="224" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssss#+.::=++==:````:--:::.``:-:-+*:::==*#ssssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="1.51s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="248" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssss##====+c**+++++:-%%#:=cccss#ssc-`:+*##sssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.64s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="236" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssss#s=---++-:::`::-.+c--=--:-===+*-.-c=*#ssssssssssssssssc</text>
+          <animate attributeName="opacity" values="0;1" begin="1.59s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="260" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssss#s*--*#####sc+`c#%#c:+s#%%%#sc+:=*s##sssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.73s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="248" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssss##====+c**+++++:-%%#:=cccss#ssc-`:+*##sssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="1.67s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="272" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssssss##+:*cssss*++c%%@%%s*=+*ccccc*`*c##ssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.82s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="260" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssss#s*--*#####sc+`c#%#c:+s#%%%#sc+:=*s##sssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="1.75s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="284" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssscsssssssssss##s-+sc***+=sc*sss**cc*ccs##c-`s##sssssssssssssssssss</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="1.83s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="296" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssscsssssss###+`*ssss**+-::--::=***s#sc+`:##ssssssssssssssssssss</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="1.91s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="272" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssssss##+:*cssss*++c%%@%%s*=+*ccccc*`*c##ssssssssssssssssss</text>
+          <text x="12" y="308" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssss##s.:*c*:`....:+:`..  .-cs=:.*#sssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.00s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="284" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssscsssssssssss##s-+sc***+=sc*sss**cc*ccs##c-`s##sssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="1.99s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="320" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssss#- -*-. ..`-+**+=```..*+-.`s#sssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.09s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="296" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssscsssssss###+`*ssss**+-::--::=***s#sc+`:##ssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.07s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="332" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssss#s`.-+-+ccccc**cccss*++-`.c#ssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.18s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="308" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssss##s.:*c*:`....:+:`..&#160;&#160;.-cs=:.*#sssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.15s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="344" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssssssssss#c``=+cs#s+:``-*s#sc*-..+#sssssssssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.27s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="320" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssss#-&#160;-*-.&#160;..`-+**+=```..*+-.`s#sssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.23s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="356" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssssss#s:.:+c#%#+-+s#%#c+:..=#sscccsssscccssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.36s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="332" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssss#s`.-+-+ccccc**cccss*++-`.c#ssssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.31s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="368" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssssssssc=..:+++===+++=-` :+*ssscccccssssscscsssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.45s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="344" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssssssssss#c``=+cs#s+:``-*s#sc*-..+#sssssssssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.39s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="380" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssscccccss+=#*c+`  ..``.``...`=cc+#+*ccccccccssssssssssssss</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="2.47s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="392" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">sssssssssssssssscssssc=.c%c+cc+-`.. . .`:=ccc+c%=.+cccccccssssssssssssss</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="2.55s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="356" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssssss#s:.:+c#%#+-+s#%#c+:..=#sscccsssscccssssssssssss</text>
+          <text x="12" y="404" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssc*-:`.s%%s*+***+----=+*cc**s%#s..:+ccsssssssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.64s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="368" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssssssssssc=..:+++===+++=-`&#160;:+*ssscccccssssscscsssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.62s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="416" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssssssc+-:````` *%#%#c*++*++==+*c*+c#%##c`.`.`:-=*csssssssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.73s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="380" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssscccccss+=#*c+`&#160;&#160;..``.``...`=cc+#+*ccccccccssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.70s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="428" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">ssssssssssc+-:`..```:``.-####%#s*++*++*++*#%%###*..``... .`-=*csssssssss</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.82s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="392" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">sssssssssssssssscssssc=.c%c+cc+-`..&#160;.&#160;.`:=ccc+c%=.+cccccccssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.78s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="440" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">s##ssc*+-:`...`````::``.`cs##%%%%#s****c#%%%%##s=...`````.....`:=+*css#s</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.91s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="404" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssssssc*-:`.s%%s*+***+----=+*cc**s%#s..:+ccsssssssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.86s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="452" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">c*+-::``..``````:`::```.`+####%%@%c+*+=*%@%%##ss-....`````..```..``:-=+*</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.00s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="416" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssssssc+-:`````&#160;*%#%#c*++*++==+*c*+c#%##c`.`.`:-=*csssssssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="2.94s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="464" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">:``.....```````..```````.-s###%%*`......:+%%###c:..``````.``````````````</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.09s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="428" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">ssssssssssc+-:`..```:``.-####%#s*++*++*++*#%%###*..``...&#160;.`-=*csssssssss</text>
+          <animate attributeName="opacity" values="0;1" begin="3.02s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="476" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">......````````````````.`.-c#%%#+`..```:` .=s%##*`.`````..```````````````</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="3.10s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="488" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">```````````````````````..:ss%#*+++`.::` -c**s#s*`..`````````````````````</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="3.18s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="440" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">s##ssc*+-:`...`````::``.`cs##%%%%#s****c#%%%%##s=...`````.....`:=+*css#s</text>
+          <text x="12" y="500" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">`````````````.`````````..`sss###***``:.:#scs#s#*`.````````````````:`````</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.27s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="452" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">c*+-::``..``````:`::```.`+####%%@%c+*+=*%@%%##ss-....`````..```..``:-=+*</text>
+          <animate attributeName="opacity" values="0;1" begin="3.26s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="512" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">```````````````````````...*##%#%s*c:`:.*#ss%##%+``..``````:`````::``````</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.36s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="464" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">:``.....```````..```````.-s###%%*`......:+%%###c:..``````.``````````````</text>
+          <animate attributeName="opacity" values="0;1" begin="3.34s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="524" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">.`````````````.````````...=ss%###c+``:.:###%#%#=.`..``````:.```::```````</text>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.45s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="476" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">......````````````````.`.-c#%%#+`..```:`&#160;.=s%##*`.`````..```````````````</text>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.55s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="488" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">```````````````````````..:ss%#*+++`.::`&#160;-c**s#s*`..`````````````````````</text>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.64s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="500" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">`````````````.`````````..`sss###***``:.:#scs#s#*`.````````````````:`````</text>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.73s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="512" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">```````````````````````...*##%#%s*c:`:.*#ss%##%+``..``````:`````::``````</text>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.82s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="524" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">.`````````````.````````...=ss%###c+``:.:###%#%#=.`..``````:.```::```````</text>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="3.91s" dur="0.1s" fill="freeze"/>
-          <text x="12" y="536" fill="#38BDF8" font-family="'Fira Code', 'Courier New', monospace" font-size="10px" xml:space="preserve">.`````````::```.```````...:cs%###*```:`.+#%##%#-.````````:````::```````.</text>
+          <animate attributeName="opacity" values="0;1" begin="3.42s" dur="0.1s" fill="freeze"/>
+          <text x="12" y="536" fill="#38BDF8" font-family="monospace" font-size="10px" xml:space="preserve">.`````````::```.```````...:cs%###*```:`.+#%##%#-.````````:````::```````.</text>
         </g>
   </g>
 </svg>
