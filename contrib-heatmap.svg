@@ -407,7 +407,7 @@
   <animate attributeName="opacity" values="0;1" begin="0.58s" dur="0.2s" fill="freeze"/>
 </rect><rect x="460" y="75" width="11" height="11" rx="2" fill="#0E4429" opacity="0">
   <animate attributeName="opacity" values="0;1" begin="0.60s" dur="0.2s" fill="freeze"/>
-</rect><rect x="460" y="90" width="11" height="11" rx="2" fill="#006D32" opacity="0">
+</rect><rect x="460" y="90" width="11" height="11" rx="2" fill="#0E4429" opacity="0">
   <animate attributeName="opacity" values="0;1" begin="0.62s" dur="0.2s" fill="freeze"/>
 </rect><rect x="460" y="105" width="11" height="11" rx="2" fill="#161B22" opacity="0">
   <animate attributeName="opacity" values="0;1" begin="0.64s" dur="0.2s" fill="freeze"/>
