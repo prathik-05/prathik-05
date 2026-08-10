@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/ai-systems-flow.svg" alt="Prathik Salla - AI Systems & RAG Architecture Flow" width="100%" />
+  <img src="./assets/avatar-portrait.svg" width="440" alt="Prathik Salla - Animated Avatar Portrait" />
 
   <br><br>
 
