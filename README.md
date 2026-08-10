@@ -24,7 +24,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/prathik-05">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik-05&layout=compact&theme=dark" height="150" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathik-05&layout=compact&theme=dark&hide=html,css,jupyter%20notebook" height="150" alt="Top Languages" />
     </a>
   </p>
 
