@@ -2,12 +2,15 @@
   <a xlink:href="https://github.com/prathik-05/yolov11-object-detection-and-segmentation" target="_blank">
     <rect width="850" height="175" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
     
-    <text x="24" y="32" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">COMPUTER VISION & DEEP LEARNING</text>
+    <!-- Category pulse text -->
+    <text x="24" y="32" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">
+      COMPUTER VISION & DEEP LEARNING
+    </text>
     
-    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Real-Time Object Detection & Segmentation (YOLOv11)</text>
+    <text x="24" y="58" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">YOLOv11 Vision Inference Pipeline</text>
     
-    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Real-time computer vision pipeline supporting webcam, image, and video inference</text>
-    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">with dynamic model switching, class-wise analytics, and frame optimization.</text>
+    <text x="24" y="86" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">Real-time object detection & instance segmentation pipeline,</text>
+    <text x="24" y="106" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="400">configurable for live video stream and webcam inference.</text>
     
     
         <g transform="translate(24, 140)">
@@ -31,8 +34,11 @@
             <text x="8" y="15" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500">Streamlit</text>
         </g>
     
+    <!-- Action Button with subtle animated pulse -->
     <g transform="translate(805, 24)">
-      <circle cx="10" cy="10" r="14" fill="#161B22"/>
+      <circle cx="10" cy="10" r="14" fill="#161B22" stroke="#30363D" stroke-width="1">
+        <animate attributeName="stroke" values="#30363D;#38BDF8;#30363D" dur="3s" repeatCount="indefinite"/>
+      </circle>
       <path d="M5 10H15M15 10L10 5M15 10L10 15" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
   </a>
