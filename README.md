@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="./assets/neural-radar-status.svg" width="100%" alt="Cyber Terminal Live System Status & Inference Monitor" />
-
-  <br><br>
-
   <h3><code>prathik@github ~ $ whoami</code></h3>
   <table>
     <tr>
@@ -19,10 +15,6 @@
   <br>
 
   <img src="./assets/tech-marquee.svg" alt="Infinite Scrolling Tech Stack Marquee" width="100%" />
-
-  <br><br>
-
-  <img src="./assets/holographic-neural-matrix.svg" alt="Holographic AI Neural Network Topology & Console Log Stream" width="100%" />
 
   <br><br>
 
