@@ -4,7 +4,11 @@
   <table>
     <tr>
       <td valign="top" align="center"><img src="./avi-ascii.svg" width="370" alt="Animated Self-Typing ASCII Portrait" /></td>
-      <td valign="top" align="center"><img src="./info-card.svg" width="490" alt="Neofetch Info Card" /></td>
+      <td valign="top" align="center">
+        <a href="https://github.com/prathik-05">
+          <img src="./info-card.svg" width="490" alt="Interactive Neofetch Info Card" />
+        </a>
+      </td>
     </tr>
   </table>
 
@@ -62,7 +66,7 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 ## 📜 Verified Certifications & Achievements
 
-- 🎓 **Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional** — *Oracle*
+- 🎓 **[Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional](https://education.oracle.com/)** — *Oracle*
 - ⚡ **AI Upskilling: Hands-On Development from Model to App** — *Qualcomm*
 - 🌐 **ServiceNow Virtual Internship Program** — *AICTE, SmartBridge & ServiceNow University*
 - ☁️ **Google Cloud Generative AI Virtual Internship** — *SmartBridge & SmartInternz*
