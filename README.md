@@ -1,16 +1,10 @@
 <div align="center">
 
-  <p align="center">
-    <img src="./portrait.svg" width="680" alt="Prathik Salla - Full Half-Body Animated Terminal Portrait" />
-  </p>
-
-  <br>
-
-  <img src="./assets/typing-banner.svg" alt="Animated Terminal Shell Banner" width="100%" />
+  <img src="./assets/id-card-banner.svg" alt="Prathik Salla - Developer Identity Card" width="100%" />
 
   <br><br>
 
-  <img src="./assets/profile-header.svg" alt="Prathik Salla - Computer Science Student | Software & AI Systems" width="100%" />
+  <img src="./assets/typing-banner.svg" alt="Animated Terminal Shell Banner" width="100%" />
 
   <br><br>
 
