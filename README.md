@@ -58,7 +58,7 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 
 ## 📜 Verified Certifications & Achievements
 
-- 🎓 **[Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional](https://education.oracle.com/)** — *Oracle*
+- 🎓 **Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional** — *Oracle*
 - ⚡ **AI Upskilling: Hands-On Development from Model to App** — *Qualcomm*
 - 🌐 **ServiceNow Virtual Internship Program** — *AICTE, SmartBridge & ServiceNow University*
 - ☁️ **Google Cloud Generative AI Virtual Internship** — *SmartBridge & SmartInternz*
