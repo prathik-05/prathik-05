@@ -8,9 +8,10 @@ RAMP = " .`:-=+*cs#%@"  # Bright (sparse/spaces) -> Dark (dense)
 def make_ascii_svg(image_path, output_svg_path):
     img = Image.open(image_path).convert("L")
     
-    cols = 72
+    # Upgraded grid resolution: 80 cols x 60 rows for sharper facial details & hair contours
+    cols = 80
     aspect_ratio = img.height / img.width
-    rows = int(cols * aspect_ratio * 0.55)
+    rows = int(cols * aspect_ratio * 0.55)  # Monospace font aspect correction (~0.55)
     
     small = img.resize((cols, rows), Image.Resampling.LANCZOS)
     small_np = np.array(small)
@@ -32,9 +33,9 @@ def make_ascii_svg(image_path, output_svg_path):
             row_chars.append(char)
         char_matrix.append("".join(row_chars))
         
-    font_size = 10
-    line_height = 12
-    char_width = 6.2
+    font_size = 9.5
+    line_height = 11.5
+    char_width = 5.8
     
     svg_w = int(cols * char_width) + 24
     svg_h = int(rows * line_height) + 30
@@ -62,7 +63,7 @@ def make_ascii_svg(image_path, output_svg_path):
   <circle cx="14" cy="12" r="4" fill="#FF5F56"/>
   <circle cx="28" cy="12" r="4" fill="#FFBD2E"/>
   <circle cx="42" cy="12" r="4" fill="#27C93F"/>
-  <text x="{svg_w//2}" y="16" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="10">prathik@ascii ~ portrait.sh</text>
+  <text x="{svg_w//2}" y="16" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="10">prathik@ascii ~ portrait.sh (80x60 HD)</text>
 
   <g transform="translate(0, 15)">
     {''.join(text_rows)}
@@ -72,7 +73,7 @@ def make_ascii_svg(image_path, output_svg_path):
     with open(output_svg_path, "w", encoding="utf-8") as f:
         f.write(svg_content)
         
-    print(f"Clean self-typing ASCII SVG generated at {output_svg_path}")
+    print(f"Upgraded 80x60 HD self-typing ASCII SVG generated at {output_svg_path}")
 
 if __name__ == "__main__":
     prepped = Path("source-prepped.png")

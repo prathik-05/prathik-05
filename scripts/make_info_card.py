@@ -6,13 +6,13 @@ def make_info_card(output_svg_path):
     
     rows_data = [
         ("OS", "Prathik-OS v2.6 (x86_64)", "#38BDF8", "https://github.com/prathik-05"),
-        ("Role", "Software &amp; AI Systems Engineer", "#F8FAFC", "https://github.com/prathik-05"),
+        ("Role", "Software Engineer • AI Systems Developer", "#F8FAFC", "https://github.com/prathik-05"),
         ("College", "ACE Engineering College (CGPA: 8.50)", "#E2E8F0", "https://github.com/prathik-05"),
         ("Cert", "Oracle OCI 2025 Certified Generative AI Professional", "#A7F3D0", "https://education.oracle.com/"),
         ("Focus", "Multimodal RAG • Vision Pipelines • Data Analytics", "#38BDF8", "https://github.com/prathik-05/MCP-Powered-Video-RAG"),
-        ("Stack", "Python, Java, Streamlit, PyTorch, OpenCV, SQL", "#F43F5E", "https://github.com/prathik-05/CognitoEDA"),
+        ("Stack", "Python, Java, SQL, PyTorch, Streamlit, RAG, MCP", "#F43F5E", "https://github.com/prathik-05/CognitoEDA"),
         ("Cloud", "Oracle Cloud (OCI), Google Cloud, Linux, Git", "#F59E0B", "https://github.com/prathik-05/yolov11-object-detection-and-segmentation"),
-        ("Status", "Open to Software &amp; AI Engineering Roles", "#10B981", "https://www.linkedin.com/in/prathik-s07/")
+        ("Status", "Seeking SDE &amp; AI Opportunities (2027)", "#10B981", "https://www.linkedin.com/in/prathik-s07/")
     ]
     
     line_elements = []
@@ -65,7 +65,7 @@ def make_info_card(output_svg_path):
 
     with open(output_svg_path, "w", encoding="utf-8") as f:
         f.write(svg)
-    print(f"Grounded info-card.svg generated at {output_svg_path}")
+    print(f"Updated info-card.svg generated at {output_svg_path}")
 
 if __name__ == "__main__":
     make_info_card(Path("info-card.svg"))
