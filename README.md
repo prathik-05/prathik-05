@@ -22,6 +22,10 @@
 
   <br><br>
 
+  <img src="./assets/holographic-neural-matrix.svg" alt="Holographic AI Neural Network Topology & Console Log Stream" width="100%" />
+
+  <br><br>
+
   <p align="center">
     <a href="https://github.com/prathik-05">
       <img src="https://github-readme-stats.vercel.app/api?username=prathik-05&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
