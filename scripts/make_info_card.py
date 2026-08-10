@@ -5,35 +5,37 @@ def make_info_card(output_svg_path):
     svg_w, svg_h = 490, 480
     
     rows_data = [
-        ("OS", "Prathik-OS v2.6 (x86_64)", "#38BDF8"),
-        ("Role", "Computer Science (Data Science) Student", "#F8FAFC"),
-        ("College", "ACE Engineering College (CGPA: 8.50)", "#E2E8F0"),
-        ("Cert", "Oracle OCI 2025 Certified Generative AI Professional", "#A7F3D0"),
-        ("Focus", "AI Systems • Multimodal RAG • Vision Pipelines", "#38BDF8"),
-        ("Stack", "Python, Java, Streamlit, PyTorch, OpenCV, SQL", "#F43F5E"),
-        ("Cloud", "Oracle Cloud (OCI), Google Cloud, Linux, Git", "#F59E0B"),
-        ("Status", "Open to Software & AI Engineering Roles", "#10B981")
+        ("OS", "Prathik-OS v2.6 (x86_64)", "#38BDF8", "https://github.com/prathik-05"),
+        ("Role", "Software &amp; AI Systems Engineer", "#F8FAFC", "https://github.com/prathik-05"),
+        ("College", "ACE Engineering College (CGPA: 8.50)", "#E2E8F0", "https://github.com/prathik-05"),
+        ("Cert", "Oracle OCI 2025 Certified Generative AI Professional", "#A7F3D0", "https://education.oracle.com/"),
+        ("Focus", "Multimodal RAG • Vision Pipelines • Data Analytics", "#38BDF8", "https://github.com/prathik-05/MCP-Powered-Video-RAG"),
+        ("Stack", "Python, Java, Streamlit, PyTorch, OpenCV, SQL", "#F43F5E", "https://github.com/prathik-05/CognitoEDA"),
+        ("Cloud", "Oracle Cloud (OCI), Google Cloud, Linux, Git", "#F59E0B", "https://github.com/prathik-05/yolov11-object-detection-and-segmentation"),
+        ("Status", "Open to Software &amp; AI Engineering Roles", "#10B981", "https://www.linkedin.com/in/prathik-s07/")
     ]
     
     line_elements = []
     start_y = 65
     line_gap = 48
-    duration = 3.5
+    duration = 2.5
     
-    for i, (label, value, color) in enumerate(rows_data):
+    for i, (label, value, color, link_url) in enumerate(rows_data):
         y_pos = start_y + i * line_gap
         delay = (i / len(rows_data)) * duration
+        val_clean = value.replace("&", "&amp;").replace("&amp;amp;", "&amp;")
         
         line_svg = f'''
-        <g opacity="0" transform="translate(0, 5)">
-          <animate attributeName="opacity" values="0;1" begin="{delay:.2f}s" dur="0.4s" fill="freeze"/>
-          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="{delay:.2f}s" dur="0.4s" fill="freeze"/>
-          <text x="24" y="{y_pos}" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">{label.upper()}:</text>
-          <text x="115" y="{y_pos}" fill="{color}" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">{value}</text>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;1" begin="{delay:.2f}s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="{y_pos}" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">{label.upper()}:</text>
+          <a href="{link_url}" target="_blank">
+            <text x="115" y="{y_pos}" fill="{color}" font-family="sans-serif" font-size="12" font-weight="500">{val_clean}</text>
+          </a>
         </g>'''
         line_elements.append(line_svg)
         
-    svg = f"""<svg width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}" fill="none" xmlns="http://www.w3.org/2000/svg">
+    svg = f"""<svg width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect width="{svg_w}" height="{svg_h}" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
   
   <!-- Neofetch Terminal Top Bar -->
@@ -63,7 +65,7 @@ def make_info_card(output_svg_path):
 
     with open(output_svg_path, "w", encoding="utf-8") as f:
         f.write(svg)
-    print(f"Neofetch info card SVG generated at {output_svg_path}")
+    print(f"Grounded info-card.svg generated at {output_svg_path}")
 
 if __name__ == "__main__":
     make_info_card(Path("info-card.svg"))
