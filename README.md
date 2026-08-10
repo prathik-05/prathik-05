@@ -6,7 +6,15 @@
 
   <br>
 
+  <img src="./assets/typing-banner.svg" alt="Animated Terminal Shell Banner" width="100%" />
+
+  <br><br>
+
   <img src="./assets/profile-header.svg" alt="Prathik Salla - Computer Science Student | Software & AI Systems" width="100%" />
+
+  <br><br>
+
+  <img src="./assets/tech-marquee.svg" alt="Infinite Scrolling Tech Stack Marquee" width="100%" />
 
   <br><br>
 
