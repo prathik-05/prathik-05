@@ -1,0 +1,75 @@
+<svg width="490" height="480" viewBox="0 0 490 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="490" height="480" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1"/>
+  
+  <!-- Neofetch Terminal Top Bar -->
+  <rect width="490" height="28" rx="10" fill="#0D1117"/>
+  <circle cx="16" cy="14" r="4" fill="#FF5F56"/>
+  <circle cx="30" cy="14" r="4" fill="#FFBD2E"/>
+  <circle cx="44" cy="14" r="4" fill="#27C93F"/>
+  <text x="245" y="18" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="11">neofetch --user prathik-05</text>
+
+  <!-- Neofetch Content Rows -->
+  <g transform="translate(0, 10)">
+    
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="0.00s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.00s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="65" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">OS:</text>
+          <text x="115" y="65" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Prathik-OS v2.6 (x86_64)</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="0.44s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.44s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="113" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">ROLE:</text>
+          <text x="115" y="113" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Computer Science (Data Science) Student</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="0.88s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.88s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="161" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">COLLEGE:</text>
+          <text x="115" y="161" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">ACE Engineering College (CGPA: 8.50)</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="1.31s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.31s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="209" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">CERT:</text>
+          <text x="115" y="209" fill="#A7F3D0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Oracle OCI 2025 Certified Generative AI Professional</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="1.75s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="1.75s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="257" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">FOCUS:</text>
+          <text x="115" y="257" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">AI Systems • Multimodal RAG • Vision Pipelines</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="2.19s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="2.19s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="305" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">STACK:</text>
+          <text x="115" y="305" fill="#F43F5E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Python, Java, Streamlit, PyTorch, OpenCV, SQL</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="2.62s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="2.62s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="353" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">CLOUD:</text>
+          <text x="115" y="353" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Oracle Cloud (OCI), Google Cloud, Linux, Git</text>
+        </g>
+        <g opacity="0" transform="translate(0, 5)">
+          <animate attributeName="opacity" values="0;1" begin="3.06s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="3.06s" dur="0.4s" fill="freeze"/>
+          <text x="24" y="401" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="700">STATUS:</text>
+          <text x="115" y="401" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Open to Software & AI Engineering Roles</text>
+        </g>
+  </g>
+
+  <!-- Color Palette Chips at Bottom -->
+  <g transform="translate(24, 435)">
+    <rect x="0" width="30" height="14" rx="3" fill="#090D16"/>
+    <rect x="36" width="30" height="14" rx="3" fill="#F43F5E"/>
+    <rect x="72" width="30" height="14" rx="3" fill="#10B981"/>
+    <rect x="108" width="30" height="14" rx="3" fill="#F59E0B"/>
+    <rect x="144" width="30" height="14" rx="3" fill="#38BDF8"/>
+    <rect x="180" width="30" height="14" rx="3" fill="#6366F1"/>
+    <rect x="216" width="30" height="14" rx="3" fill="#A855F7"/>
+    <rect x="252" width="30" height="14" rx="3" fill="#F8FAFC"/>
+  </g>
+</svg>

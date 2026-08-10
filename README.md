@@ -1,8 +1,19 @@
 <div align="center">
 
-  <img src="./assets/id-card-banner.svg" alt="Prathik Salla - Developer Identity Card" width="100%" />
+  <h3><code>prathik@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Live Contribution Heatmap" />
 
   <br><br>
+
+  <h3><code>prathik@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top" align="center"><img src="./avi-ascii.svg" width="370" alt="Animated Self-Typing ASCII Portrait" /></td>
+      <td valign="top" align="center"><img src="./info-card.svg" width="490" alt="Neofetch Info Card" /></td>
+    </tr>
+  </table>
+
+  <br>
 
   <img src="./assets/tech-marquee.svg" alt="Infinite Scrolling Tech Stack Marquee" width="100%" />
 
@@ -13,7 +24,7 @@
   </a>
   &nbsp;
   <a href="mailto:s.prathik1745@gmail.com">
-    <img src="https://img.shields.io/badge/Email-s.prathik1745%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-s.prathik1745%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/prathik-05">
@@ -31,18 +42,6 @@ Computer Science (Data Science) undergraduate at **ACE Engineering College**, Hy
 - 🛠️ **Engineering Focus**: Full-Stack Development, AI Workflow Automation, RAG Architecture & Computer Vision.
 - 🎯 **Problem Solving**: Active in Data Structures & Algorithms, Object-Oriented Design, and System Architecture.
 - 🌐 **Open Source**: Actively building and contributing to open-source software tooling and AI platforms.
-
----
-
-## 💻 Quick Start & Tooling Execution
-
-```bash
-# Clone and explore featured AI repositories
-git clone https://github.com/prathik-05/MCP-Powered-Video-RAG.git
-cd MCP-Powered-Video-RAG
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
