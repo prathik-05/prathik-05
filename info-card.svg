@@ -13,58 +13,44 @@
     
         <g opacity="0">
           <animate attributeName="opacity" values="0;1" begin="0.00s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="65" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">OS:</text>
+          <text x="24" y="80" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">OS:</text>
           <a href="https://github.com/prathik-05" target="_blank">
-            <text x="115" y="65" fill="#38BDF8" font-family="sans-serif" font-size="12" font-weight="500">Prathik-OS v2.6 (x86_64)</text>
+            <text x="115" y="80" fill="#38BDF8" font-family="sans-serif" font-size="12" font-weight="500">Prathik-OS v2.6 (x86_64)</text>
           </a>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.31s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="113" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">ROLE:</text>
+          <animate attributeName="opacity" values="0;1" begin="0.33s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="136" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">ROLE:</text>
           <a href="https://github.com/prathik-05" target="_blank">
-            <text x="115" y="113" fill="#F8FAFC" font-family="sans-serif" font-size="12" font-weight="500">Software Engineer • AI Systems Developer</text>
+            <text x="115" y="136" fill="#F8FAFC" font-family="sans-serif" font-size="12" font-weight="500">Software Engineer • AI Systems Developer</text>
           </a>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.62s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="161" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">COLLEGE:</text>
+          <animate attributeName="opacity" values="0;1" begin="0.67s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="192" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">COLLEGE:</text>
           <a href="https://github.com/prathik-05" target="_blank">
-            <text x="115" y="161" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="500">ACE Engineering College (CGPA: 8.50)</text>
+            <text x="115" y="192" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="500">ACE Engineering College (CGPA: 8.50)</text>
           </a>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="0.94s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="209" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">CERT:</text>
-          <a href="https://education.oracle.com/" target="_blank">
-            <text x="115" y="209" fill="#A7F3D0" font-family="sans-serif" font-size="12" font-weight="500">Oracle OCI 2025 Certified Generative AI Professional</text>
-          </a>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.25s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="257" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">FOCUS:</text>
-          <a href="https://github.com/prathik-05/MCP-Powered-Video-RAG" target="_blank">
-            <text x="115" y="257" fill="#38BDF8" font-family="sans-serif" font-size="12" font-weight="500">Multimodal RAG • Vision Pipelines • Data Analytics</text>
-          </a>
-        </g>
-        <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.56s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="305" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">STACK:</text>
+          <animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="248" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">STACK:</text>
           <a href="https://github.com/prathik-05/CognitoEDA" target="_blank">
-            <text x="115" y="305" fill="#F43F5E" font-family="sans-serif" font-size="12" font-weight="500">Python, Java, SQL, PyTorch, Streamlit, RAG, MCP</text>
+            <text x="115" y="248" fill="#F43F5E" font-family="sans-serif" font-size="12" font-weight="500">Python, Java, SQL, PyTorch, Streamlit, RAG, MCP</text>
           </a>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="1.88s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="353" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">CLOUD:</text>
+          <animate attributeName="opacity" values="0;1" begin="1.33s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="304" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">CLOUD:</text>
           <a href="https://github.com/prathik-05/yolov11-object-detection-and-segmentation" target="_blank">
-            <text x="115" y="353" fill="#F59E0B" font-family="sans-serif" font-size="12" font-weight="500">Oracle Cloud (OCI), Google Cloud, Linux, Git</text>
+            <text x="115" y="304" fill="#F59E0B" font-family="sans-serif" font-size="12" font-weight="500">Oracle Cloud (OCI), Google Cloud, Linux, Git</text>
           </a>
         </g>
         <g opacity="0">
-          <animate attributeName="opacity" values="0;1" begin="2.19s" dur="0.3s" fill="freeze"/>
-          <text x="24" y="401" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">STATUS:</text>
+          <animate attributeName="opacity" values="0;1" begin="1.67s" dur="0.3s" fill="freeze"/>
+          <text x="24" y="360" fill="#38BDF8" font-family="monospace" font-size="12" font-weight="bold">STATUS:</text>
           <a href="https://www.linkedin.com/in/prathik-s07/" target="_blank">
-            <text x="115" y="401" fill="#10B981" font-family="sans-serif" font-size="12" font-weight="500">Seeking Software Engineering &amp; AI Opportunities | 2027 Graduate</text>
+            <text x="115" y="360" fill="#10B981" font-family="sans-serif" font-size="12" font-weight="500">Seeking Software Engineering &amp; AI Opportunities | 2027 Graduate</text>
           </a>
         </g>
   </g>
